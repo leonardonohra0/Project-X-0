@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - XOSprite
+  - XOSpawner
+  - Grid
+  - O_Sprite
+  - X_Sprite
+  - O_Sprite_Reserved
+  - X_Sprite_Reserved
+  - Player_Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GridLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GridLayer
+    uniqueID: 3158987725
+    locked: 0
+  - name: XO_Sprite
+    uniqueID: 487660175
+    locked: 0
